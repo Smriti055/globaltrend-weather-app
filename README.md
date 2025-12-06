@@ -77,7 +77,7 @@ Error messages & warnings visible to the user
 
 **📂 Project Structure**
 
-project-root/
+project-root/<br>
 ├─ README.md<br>
 ├─ index.html<br>
 ├─ package.json<br>
