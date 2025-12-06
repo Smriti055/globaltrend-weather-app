@@ -119,7 +119,7 @@ Both implemented inside src/api.js with proper error handling.
 
 **⚙️ Installation & Running the Project**
 *1. Clone the repository*<br>
-git clone your-repo-url
+git clone your-repo-url<br>
 cd your-repo-folder
 
 *2. Install dependencies*<br>
