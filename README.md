@@ -79,7 +79,9 @@ Error messages & warnings visible to the user
 
 project-root/
 ├─ README.md
+
 ├─ index.html
+
 ├─ package.json
 ├─ .gitignore
 ├─ .env (not committed)
