@@ -118,20 +118,20 @@ GET https://api.openweathermap.org/data/2.5/forecast?q={city}&appid={API_KEY}&un
 Both implemented inside src/api.js with proper error handling.
 
 **⚙️ Installation & Running the Project**
-*1. Clone the repository*
-git clone <your-repo-url>
+*1. Clone the repository*<br>
+git clone <your-repo-url><br>
 cd <your-repo-folder>
 
-*2. Install dependencies*
-npm install
+*2. Install dependencies*<br>
+npm install<br>
 
-*3. Add your API key*
-Create a .env file in the root:
+*3. Add your API key*<br>
+Create a .env file in the root:<br>
 VITE_OPENWEATHER_API_KEY=your_api_key_here
 
 Do not commit .env — it’s already in .gitignore.
 
-*4. Start development server*
+*4. Start development server*<br>
 npm run dev
 
 Visit → http://localhost:5173
