@@ -78,24 +78,22 @@ Error messages & warnings visible to the user
 **📂 Project Structure**
 
 project-root/
-├─ README.md
-
-├─ index.html
-
-├─ package.json
-├─ .gitignore
-├─ .env (not committed)
-├─ src/
-│  ├─ api.js                # API + caching logic
-│  ├─ App.jsx
-│  ├─ main.jsx
-│  ├─ index.css
-│  ├─ components/
-│  │  ├─ WeatherSummary.jsx
-│  │  └─ ForecastItem.jsx
-│  └─ pages/
-│     ├─ Home.jsx
-│     └─ Details.jsx
+├─ README.md<br>
+├─ index.html<br>
+├─ package.json<br>
+├─ .gitignore<br>
+├─ .env (not committed)<br>
+├─ src/<br>
+│  ├─ api.js <br>               # API + caching logic
+│  ├─ App.jsx<br>
+│  ├─ main.jsx<br>
+│  ├─ index.css<br>
+│  ├─ components/<br>
+│  │  ├─ WeatherSummary.jsx<br>
+│  │  └─ ForecastItem.jsx<br>
+│  └─ pages/<br>
+│     ├─ Home.jsx<br>
+│     └─ Details.jsx<br>
 
 **🛠️ Tech Used**
 
